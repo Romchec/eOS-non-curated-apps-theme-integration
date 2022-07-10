@@ -1,6 +1,6 @@
 # eOS-non-curated-apps-theme-integration
 
-## Make non-curated Flatpak applications follow system system theme and accent color
+## Make non-curated Flatpak applications follow system theme and accent color
 
 ![showcase](https://raw.githubusercontent.com/Romchec/eOS-non-curated-apps-theme-integration/main/screenshot.png)
 
